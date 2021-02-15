@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderBottomColor": "#e8eded",
+          "borderBottomWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": 20,
+          "paddingBottom": 10,
+          "paddingLeft": 0,
+          "paddingRight": 20,
+          "paddingTop": 10,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 21,
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      Saldo total disponivel
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#cecece",
+            "fontSize": 21,
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      R$ 9.000,00
+    </Text>
+  </View>
+</View>
+`;

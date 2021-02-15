@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TouchableHighlight
+  disabled={true}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+        "marginTop": 3,
+        "opacity": 0.5,
+        "paddingBottom": 15,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 15,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 21,
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      Investimento II
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "fontSize": 21,
+          },
+        ]
+      }
+    >
+      R$ 7.500,00
+    </Text>
+  </View>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#c9c9c9",
+          "fontSize": 16,
+        },
+      ]
+    }
+  >
+    Viajem dos sonhos
+  </Text>
+</TouchableHighlight>
+`;

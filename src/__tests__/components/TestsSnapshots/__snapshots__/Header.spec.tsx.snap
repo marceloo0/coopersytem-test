@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "blue",
+        "borderBottomColor": "#ffff00",
+        "borderBottomWidth": 5,
+        "height": 60,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontSize": 21,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  >
+    Resgate
+  </Text>
+</View>
+`;

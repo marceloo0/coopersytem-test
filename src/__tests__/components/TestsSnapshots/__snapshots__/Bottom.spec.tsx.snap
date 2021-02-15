@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TouchableHighlight
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#ffff00",
+        "height": 60,
+        "justifyContent": "center",
+        "marginTop": 15,
+        "width": "100%",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "blue",
+          "fontSize": 21,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  >
+    CONFIRMAR RESGATE
+  </Text>
+</TouchableHighlight>
+`;

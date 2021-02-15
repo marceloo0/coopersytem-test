@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "paddingBottom": 15,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 15,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#6c6c80",
+          "fontSize": 21,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  >
+    RESGATE DO SEU JEITO
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#6c6c80",
+          "fontSize": 21,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  />
+</View>
+`;
