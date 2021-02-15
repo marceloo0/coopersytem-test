@@ -1,8 +1,8 @@
 ## Avaliação CooperSystem
 
 <p align = "center">
-  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/My_Wallet">
-  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/My_Wallet">
+  <img alt = "GitHub language count" src = "https://img.shields.io/github/languages/count/marceloppb/coopersytem-test">
+  <img alt = "GitHub principal idioma" src = "https://img.shields.io/github/languages/top/marceloppb/coopersytem-test">
 </p>
 
 ## Pequena descrição
@@ -24,8 +24,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Começando
 
-1º Clone este repo usando `git clone git@githubcom:marceloppb/coopersystem.git`
-2º Mova para o diretório apropriado: `cd coopersystem` <br />
+1º Clone este repo usando `git clone git@githubcom:marceloppb/coopersytem-test.git`
+2º Mova para o diretório apropriado: `cd coopersytem-test` <br />
 3º Execute `yarn` para instalar dependências
 4º Execute `yarn start` para iniciar localmente
 
